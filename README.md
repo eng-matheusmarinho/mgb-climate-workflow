@@ -16,7 +16,7 @@ Este repositório reúne e organiza **os notebooks/scripts utilizados na dissert
 
 A ordem sugerida de execução está em **`PIPELINE.md`**.
 
-## Como rodar (alto nível)
+## Como rodar
 
 1. Coloque os dados (ou amostras) em `data/00_raw/` conforme esperado por cada notebook.
 2. Execute os notebooks em ordem (ver `PIPELINE.md`).
